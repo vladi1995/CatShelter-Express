@@ -1,0 +1,26 @@
+{
+  "name": "CatShelter-Express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladi1995/CatShelter-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladi1995/CatShelter-Express/issues"
+  },
+  "homepage": "https://github.com/vladi1995/CatShelter-Express#readme",
+  "dependencies": {
+    "express-handlebars": "^6.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
