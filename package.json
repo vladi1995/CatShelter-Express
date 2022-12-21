@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/vladi1995/CatShelter-Express#readme",
   "dependencies": {
+    "express": "^4.18.2",
     "express-handlebars": "^6.0.6"
   },
   "devDependencies": {
